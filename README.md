@@ -1,4 +1,8 @@
-## Hi there 👋
+## Be Welcome! 👋
+#### Who am I?
+  My name, Tiago and currently im studying at 42 Lisboa
+#### What are my hobbies
+  Im very into gaming and photography, I love hanging out and share experiences with my friends and family.
 
 <!--
 **tjorge-d/tjorge-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
