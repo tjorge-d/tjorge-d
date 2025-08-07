@@ -4,7 +4,7 @@
   My name is Tiago and currently im studying at 42 Lisboa.<br>
   
 ### What are my hobbies?
-  Since kid, I was enjoyed to get home and play some **videogames** :video_game:. That grown into me and now its an hobby that healthily relaxes me after a long and busy day.<br>
+  Since kid, I ãlways enjoyed to get home and play some **videogames** :video_game:. That grown into me and now its an hobby that healthily relaxes me after a long and busy day.<br>
   After my first job, I decided to gather some pennies and buy myself a **Camera** :camera:. It is an essential part of my life, being able to freely capture moments that will be immortalized and reviewed in the future.<br>
   I also love hanging out and share experiences with my friends and family.<br>
   
