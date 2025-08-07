@@ -4,9 +4,9 @@
   My name is Tiago and currently im studying at 42 Lisboa.<br>
   
 ### What are my hobbies?
-  Since kid, I was that little gremlin anxiously waiting to get home and play some **videogames** :video_game:. That grown into me and now its an hobby that healthily relaxes me after a long and busy day.<br>
+  Since kid, I was enjoyed to get home and play some **videogames** :video_game:. That grown into me and now its an hobby that healthily relaxes me after a long and busy day.<br>
   After my first job, I decided to gather some pennies and buy myself a **Camera** :camera:. It is an essential part of my life, being able to freely capture moments that will be immortalized and reviewed in the future.<br>
-  Like any normal person, I also love hanging out and share experiences with my friends and family.<br>
+  I also love hanging out and share experiences with my friends and family.<br>
   
 ### What was I doing before programming?
   In the beggining I was assisting a **theater** :japanese_goblin: with all sorts of tasks like managing guests, promoting shows or working in backstage operations.<br>
